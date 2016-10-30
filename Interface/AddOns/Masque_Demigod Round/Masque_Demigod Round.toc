@@ -1,0 +1,7 @@
+## Interface: 40300
+## Title: Masque: Demigod Round
+## Version: 3.0.3
+## Author: Elloria
+## Dependencies: Masque
+
+Skins.lua

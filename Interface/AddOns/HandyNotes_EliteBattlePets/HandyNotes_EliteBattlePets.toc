@@ -1,0 +1,18 @@
+## Interface: 60200
+## Title: HandyNotes_EliteBattlePets
+## Notes: Elite Battle Pets? Legendary? Sure, why not?
+## Author: Kemayo
+## Version: 1
+## DefaultState: enabled
+## X-Category: Battle Pets
+## X-eMail: kemayo @ gmail DOT com
+## SavedVariables: HandyNotes_EliteBattlePetsDB
+## RequiredDeps: HandyNotes
+## X-Curse-Packaged-Version: v60200
+## X-Curse-Project-Name: HandyNotes_EliteBattlePets
+## X-Curse-Project-ID: handynotes_elitebattlepets
+## X-Curse-Repository-ID: wow/handynotes_elitebattlepets/mainline
+
+handler.lua
+config.lua
+Pets.lua

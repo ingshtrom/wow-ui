@@ -1,0 +1,57 @@
+
+StufRaidCharLayoutDB = nil
+StufRaidCharDB = {
+	["bexclude"] = {
+	},
+	["bshow"] = "raid",
+	["dexclude"] = {
+		["Mutating Injection"] = true,
+	},
+	["dinclude"] = {
+	},
+	["dalert"] = {
+		["Chains of Kel'Thuzad"] = true,
+		["Resurrection Sickness"] = true,
+		["Arcane Breath"] = true,
+		["Web Wrap"] = true,
+		["Mortal Strike"] = true,
+		["Brutal Assault"] = true,
+		["Aimed Shot"] = true,
+		["Frost Blast"] = true,
+		["Icebolt"] = true,
+		["Mortal Wound"] = true,
+		["Focused Assault"] = true,
+		["Cyclone"] = true,
+	},
+	["binclude"] = {
+	},
+	["balert"] = {
+		["Shield Wall"] = true,
+		["Vanish"] = true,
+		["Pain Suppression"] = true,
+		["Feign Death"] = true,
+		["Misdirection"] = true,
+		["Horde Flag"] = true,
+		["Netherstorm Flag"] = true,
+		["Divine Shield"] = true,
+		["Fade"] = true,
+		["Raise Ally"] = true,
+		["Divine Protection"] = true,
+		["Cheating Death"] = true,
+		["Evasion"] = true,
+		["Spirit of Redemption"] = true,
+		["Blessing of Sacrifice"] = true,
+		["Berserking"] = true,
+		["Shadow Sight"] = true,
+		["Alliance Flag"] = true,
+		["Last Stand"] = true,
+		["Blessing of Protection"] = true,
+		["Ice Block"] = true,
+		["Guardian Spirit"] = true,
+		["Cloak of Shadows"] = true,
+		["Innervate"] = true,
+		["Cheat Death"] = true,
+		["Invisibility"] = true,
+	},
+	["dshow"] = "raid",
+}

@@ -1,0 +1,13 @@
+## Interface: 60200
+## Title: SharedMedia-Blizzard
+## Notes: Inserts some media that is already present in the game into LibSharedMedia's storage.
+## Version: 1.9
+## Author: Seerah
+## X-Category: Miscellaneous
+## OptionalDeps: LibSharedMedia-3.0
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+
+SharedMedia-Blizzard.lua

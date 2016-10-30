@@ -1,0 +1,9 @@
+## Interface: 70000
+## Title: FreebTipiLvl
+## Notes: Equipped iLevel for the GameTooltip
+## Version: 7.0.3c
+## Author: Freebaser
+
+libs\LibItemUpgradeInfo-1.0\LibItemUpgradeInfo-1.0.xml
+libs\LibInspect\LibInspect.lua
+ilvl.lua

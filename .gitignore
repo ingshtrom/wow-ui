@@ -1,0 +1,17 @@
+Cache
+Data
+Errors
+Logs
+Screenshots
+Utils
+*.info
+*.swp
+*.result
+*.db
+*.exe
+*.dll
+*.mfil
+.curseclient
+*cache*
+*.bak
+*CUFProfiles.txt

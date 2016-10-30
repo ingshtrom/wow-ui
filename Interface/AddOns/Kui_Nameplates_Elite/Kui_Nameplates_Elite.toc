@@ -1,0 +1,12 @@
+## Interface: 70100
+## Author: Eliote
+## Title: Kui |cff9966ffNameplates: |cffffffffElite|r
+## Notes: Adds 'Elite' in KuiNameplates
+## Version: v2.1
+## Dependencies: Kui_Nameplates
+## X-Curse-Packaged-Version: v2.1
+## X-Curse-Project-Name: KuiNameplates Elite
+## X-Curse-Project-ID: kuinameplates-elite
+## X-Curse-Repository-ID: wow/kuinameplates-elite/mainline
+
+Kui_Nameplates_Elite.lua

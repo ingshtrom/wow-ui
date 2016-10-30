@@ -1,0 +1,18 @@
+## Title: Auc:Util:Vendor Markup
+## Notes: Vendor Markup for Auctioneer. Provides a default vendor markup value for items never seen on the auction house.
+##
+## Interface: 70000
+## LoadOnDemand: 0
+## Disabled: 0
+## Dependencies: Auc-Advanced
+##
+## Version: 7.1.5675 (TasmanianThylacine)
+## Revision: $Id: Auc-Util-VendMarkup.toc 5647 2016-08-07 22:02:39Z ccox $
+## Author: Norganna's AddOns
+## X-Part-Of: Auctioneer
+## X-Category: Auction House
+## X-Max-Interface: 70000
+## X-URL: http://auctioneeraddon.com/
+## X-Feedback: http://forums.norganna.org
+##
+Embed.xml

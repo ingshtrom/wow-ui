@@ -1,0 +1,11 @@
+## Interface: 60200
+## Author: ckaotik
+## Title: Auctionator MiniFeatures
+## Version: 6.2v1-release
+## RequiredDeps: Auctionator
+## X-Curse-Packaged-Version: 6.2v1-release
+## X-Curse-Project-Name: Auctionator MiniFeatures
+## X-Curse-Project-ID: auctionator-minifeatures
+## X-Curse-Repository-ID: wow/auctionator-minifeatures/mainline
+
+AuctionatorMiniFeatures.lua

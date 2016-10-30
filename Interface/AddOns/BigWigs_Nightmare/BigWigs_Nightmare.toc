@@ -1,0 +1,34 @@
+## Interface: 70100
+
+## Title: BigWigs [|cffeda55fEmerald Nightmare|r]
+## Title-deDE: BigWigs [|cffeda55fSmaragdgrüner Alptraum|r]
+## Title-esES: BigWigs [|cffeda55fPesadilla Esmeralda|r]
+## Title-esMX: BigWigs [|cffeda55fPesadilla Esmeralda|r]
+## Title-frFR: BigWigs [|cffeda55fLe Cauchemar d'émeraude|r]
+## Title-ruRU: BigWigs [|cffeda55fИзумрудный Кошмар|r]
+## Title-zhCN: BigWigs [|cffeda55f翡翠梦魇|r]
+## Title-zhTW: BigWigs [|cffeda55f翡翠夢魘|r]
+## Title-itIT: BigWigs [|cffeda55fEmerald Nightmare|r]
+## Title-ptBR: BigWigs [|cffeda55fEmerald Nightmare|r]
+## Title-koKR: BigWigs [|cffeda55fEmerald Nightmare|r]
+## Notes: BigWigs Emerald Nightmare Modules
+## Notes-deDE: BigWigs-Module für den smaragdgrünen Alptraum
+## Notes-esES: BigWigs Módulos para Pesadilla Esmeralda
+## Notes-esMX: BigWigs Módulos para Pesadilla Esmeralda
+## Notes-frFR: Modules BigWigs concernant le Cauchemar d'émeraude.
+## Notes-ruRU: Модуль BigWigs для Изумрудного Кошмара
+## Notes-zhCN: BigWigs 翡翠梦魇模块。
+## Notes-zhTW: BigWigs 翡翠夢魘模組。
+## Notes-itIT: BigWigs Emerald Nightmare Modules
+## Notes-ptBR: BigWigs Emerald Nightmare Modules
+## Notes-koKR: BigWigs Emerald Nightmare Modules
+
+## LoadOnDemand: 1
+## Dependencies: BigWigs
+
+## X-Category: Raid
+## X-BigWigs-LoadOn-ZoneId: 1094
+
+modules.xml
+locales.xml
+

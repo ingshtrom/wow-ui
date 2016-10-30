@@ -1,0 +1,20 @@
+## Interface: 70000
+## Title: Stuf Raid Frames
+## Author: TotalPackage
+## Notes: Raid unit frames. Assembly optional. (Does not require Stuf)
+## Version: 7.0.003
+
+## SavedVariables: StufRaidDB
+## SavedVariablesPerCharacter: StufRaidCharLayoutDB, StufRaidCharDB
+
+## X-Category: UnitFrame
+## OptionalDeps: LibSharedMedia-3.0, UTF8, StufRaidLocale
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: true
+
+embeds.xml
+core.lua
+raid.lua
+raidpet.lua
+roles.lua

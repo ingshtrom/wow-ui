@@ -1,0 +1,12 @@
+## Interface: 70000
+## Title: FreebTip
+## Notes: Custom GameTooltip
+## Version: 7.0.3c
+## Author: Freebaser
+## OptionalDeps: IDCard
+## SavedVariables: FreebTipDB
+
+anchor.lua
+settings.lua
+FreebTip.lua
+multiItem.lua

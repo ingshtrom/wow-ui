@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: Masque: |cffa20000Diablo|r |cffffffffIII|r
+## Version: 1.6
+## Author: Suicidal Katt
+## Notes: |cffa20000Diablo|r |cffffffffIII|r skin for Masque.
+## Dependencies: Masque
+
+D3.lua

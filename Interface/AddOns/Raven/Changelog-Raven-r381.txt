@@ -1,0 +1,69 @@
+------------------------------------------------------------------------
+r381 | tomber | 2016-10-26 22:52:30 +0000 (Wed, 26 Oct 2016) | 4 lines
+Changed paths:
+   M /trunk/Bars.lua
+   M /trunk/Localizations/enUS.lua
+   M /trunk/Nest.lua
+   M /trunk/Raven_Options/Options.lua
+
+Added "In Pet Battle" to bar group Show When options on General tab, allowing Raven to be used to track pet battle-related buffs and debuffs.
+Fixed issue with "Zoom Icons" option for rectangular icons with Masque enabled (this combination was greyed out in r380).
+Added option in custom bar groups to desaturate icon for ready bars, supporting a somewhat different look for cooldowns in icon configurations.
+
+------------------------------------------------------------------------
+r380 | tomber | 2016-10-25 05:11:40 +0000 (Tue, 25 Oct 2016) | 3 lines
+Changed paths:
+   M /trunk/Localizations/enUS.lua
+   M /trunk/Nest.lua
+   M /trunk/Raven.toc
+   M /trunk/Raven_Options/Options.lua
+   M /trunk/Raven_Options/Raven_Options.toc
+
+Fix Masque which was broken with the addition of zoomed option for rectangular icons.
+Adjust frame levels for bar configurations slightly to allow icons to sit on top of bars without the bar border showing through the icon.
+Update version number for 7.1 in .toc files.
+------------------------------------------------------------------------
+r379 | tomber | 2016-10-24 21:38:40 +0000 (Mon, 24 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/Localizations/enUS.lua
+   M /trunk/Nest.lua
+   M /trunk/Profile.lua
+   M /trunk/Raven_Options/Options.lua
+
+Added option to zoom rectangular icons rather than stretch them. For many width-to-height ratios, this results in better looking icons that are still quite identifiable.
+------------------------------------------------------------------------
+r378 | tomber | 2016-10-22 05:32:30 +0000 (Sat, 22 Oct 2016) | 3 lines
+Changed paths:
+   M /trunk/Main.lua
+
+Add additional special case for handling recast of Agony.
+When nameplates are enabled, scan associated unit ids for auras to improve accuracy of buff and debuff trackers.
+Consolidate references to system time for more consistent and efficient comparisons.
+------------------------------------------------------------------------
+r377 | tomber | 2016-10-21 04:32:42 +0000 (Fri, 21 Oct 2016) | 4 lines
+Changed paths:
+   M /trunk/Main.lua
+   M /trunk/Profile.lua
+
+Added special case to debuff tracker for Agony so that both time and count can be refreshed correctly in a macro that changes target.
+Fixed issue with spell color sometimes not being correct for bars in debuff tracker created with an AOE spell or a macro that changes target.
+Remove Corruption when not in combat if warlock has talent Absolute Corruption.
+Remove trackers for first Soul Effigy when spell is recast and replacement Soul Effigy is summoned.
+------------------------------------------------------------------------
+r376 | tomber | 2016-10-16 23:51:06 +0000 (Sun, 16 Oct 2016) | 4 lines
+Changed paths:
+   M /trunk/Bars.lua
+   M /trunk/Nest.lua
+   M /trunk/Raven_Options/Options.lua
+
+Fix issues with expire time bar color changes: no longer change background color when custom color is selected, setting alpha to 0 now correctly suppresses color changes.
+Fix issue with notification bars not appearing.
+Changes to custom sort order fixed now to update in profile.
+
+------------------------------------------------------------------------
+r375 | tomber | 2016-09-12 07:04:49 +0000 (Mon, 12 Sep 2016) | 1 line
+Changed paths:
+   M /trunk/Main.lua
+
+Remove excess debug messages...
+------------------------------------------------------------------------

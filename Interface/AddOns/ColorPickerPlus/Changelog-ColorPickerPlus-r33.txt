@@ -1,0 +1,13 @@
+------------------------------------------------------------------------
+r33 | jaslm | 2016-10-25 22:07:49 +0000 (Tue, 25 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/ColorPickerPlus.toc
+
+Update version number
+------------------------------------------------------------------------
+r32 | jaslm | 2016-09-10 20:08:43 +0000 (Sat, 10 Sep 2016) | 1 line
+Changed paths:
+   M /trunk/ColorPickerPlus.lua
+
+Fix for alpha slider values.  In effect, a values are now 100 - a.  
+------------------------------------------------------------------------

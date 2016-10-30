@@ -1,0 +1,15 @@
+tag v3
+c99913a1add22da1fc6123d00a8bd638a73b23e4
+David Lynch <kemayo@gmail.com>
+2016-10-25 17:48:12 -0500
+
+Tagging v3
+
+
+--------------------
+
+David Lynch:
+	- Bump TOC
+	- Change entrance display for Falanaar as well, given internal
+	- Show Felsoul Hold portal on internal map
+	- Show Falanaar portal inside the temple as well

@@ -1,0 +1,13 @@
+tag v2.1
+495deabb0fef2cc13f94c710f082e6627faca5e6
+Eliote <>
+2016-10-25 20:40:52 -0200
+
+Version 2.1
+
+
+--------------------
+
+Eliote:
+	- Created repository
+	* Update to Legion 7.1

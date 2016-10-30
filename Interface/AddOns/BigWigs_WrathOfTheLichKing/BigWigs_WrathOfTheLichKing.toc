@@ -1,0 +1,37 @@
+## Interface: 70100
+
+## Title: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Title-zhCN: BigWigs [|cffeda55f巫妖王之怒|r]
+## Title-zhTW: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Title-deDE: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Title-frFR: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Title-itIT: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Title-koKR: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Title-ruRU: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Title-ptBR: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Title-esES: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Title-esMX: BigWigs [|cffeda55fWrath of the Lich King|r]
+## Notes: A collection of BigWigs modules from the Wrath of the Lich King era.
+## Notes-zhCN: BigWigs 巫妖王之怒模块。
+## Notes-zhTW: A collection of BigWigs modules from the Wrath of the Lich King era.
+## Notes-deDE: Eine Sammlung von BigWigs-Modulen aus der Ära Wrath of the Lich King.
+## Notes-frFR: A collection of BigWigs modules from the Wrath of the Lich King era.
+## Notes-itIT: A collection of BigWigs modules from the Wrath of the Lich King era.
+## Notes-koKR: A collection of BigWigs modules from the Wrath of the Lich King era.
+## Notes-ruRU: A collection of BigWigs modules from the Wrath of the Lich King era.
+## Notes-ptBR: A collection of BigWigs modules from the Wrath of the Lich King era.
+## Notes-esES: A collection of BigWigs modules from the Wrath of the Lich King era.
+## Notes-esMX: A collection of BigWigs modules from the Wrath of the Lich King era.
+
+## LoadOnDemand: 1
+## Dependencies: BigWigs
+## Version: v7.1.0
+
+## X-Category: Raid
+## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
+## X-Curse-Project-ID: bigwigs_wrathofthelichking
+## X-WoWI-ID: 22086
+## X-BigWigs-LoadOn-ZoneId: 604, 543, 535, 529, 527, 532, 531, 609, 718
+
+modules.xml
+

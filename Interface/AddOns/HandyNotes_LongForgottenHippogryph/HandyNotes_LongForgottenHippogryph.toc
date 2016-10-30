@@ -1,0 +1,18 @@
+## Interface: 70000
+## Title: HandyNotes_LongForgottenHippogryph
+## Notes: Find those Ephemeral Crystals!
+## Author: Kemayo
+## Version: 1
+## DefaultState: enabled
+## X-Category: Achievements
+## X-eMail: kemayo @ gmail DOT com
+## SavedVariables: HandyNotes_LongForgottenHippogryphDB
+## RequiredDeps: HandyNotes
+## X-Curse-Packaged-Version: v1
+## X-Curse-Project-Name: HandyNotes_LongForgottenHippogryph
+## X-Curse-Project-ID: handynotes_longforgottenhippo
+## X-Curse-Repository-ID: wow/handynotes_longforgottenhippo/mainline
+
+handler.lua
+config.lua
+nodes.lua

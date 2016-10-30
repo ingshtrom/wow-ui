@@ -1,0 +1,12 @@
+## Interface: 70000
+## Title: Stuf Raid Options
+## Author: TotalPackage
+## Notes: Configuration Menu for StufRaid.
+
+## X-Category: UnitFrame
+## Dependencies: StufRaid
+## OptionalDeps: Ace3, AceGUI-3.0-SharedMediaWidgets, StufRaid_OptionsLocale
+## LoadOnDemand: 1
+
+embeds.xml
+options.lua

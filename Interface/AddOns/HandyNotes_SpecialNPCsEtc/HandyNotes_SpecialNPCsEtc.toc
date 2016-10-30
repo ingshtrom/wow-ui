@@ -1,0 +1,30 @@
+﻿## Interface: 60200
+## Title: HandyNotes_SpecialNPCsEtc (|cff3366ffZas|r|cff00d7e4ur|r|cff70ff6dus|r)
+## Version: 1.1.1-Beta
+## Author: Zasurus
+## Notes: This creates a database of Special NPCs etc (like banks, trainers etc) locations for HandyNotes
+## SavedVariables: HandyNotes_SpecialNPCsEtcDB
+## SavedVariablesPerCharacter: HandyNotes_DebugLog, HandyNotes_StoreDebugMsgs
+## Dependencies: HandyNotes
+## OptionalDeps: 
+## X-Curse-Packaged-Version: 1.1.1-Beta
+## X-Curse-Project-Name: HandyNotes Special NPCs Etc
+## X-Curse-Project-ID: handynotes_specialnpcsetc
+## X-Curse-Repository-ID: wow/handynotes_specialnpcsetc/mainline
+
+## X-Credits: Zasurus (ME!), Xinhuan (Created HandyNotes!), Zarevak (Made HandyNotes_Trainers which was used), 
+
+# Library files
+Libs\LibStub\LibStub.lua
+Libs\LibZasUsefulFuncs\LibZasUsefulFuncs.lua
+Libs\LibZasMsgCtr\LibZasMsgCtr.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+Libs\CallbackHandler-1.0\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+
+# Locale files
+Locales\enUS.lua
+
+# Core files
+HandyNotes_SpecialNPCsEtc.lua

@@ -1,0 +1,12 @@
+tag 6.2v1-release
+eb2fd4b2b241a735a8d7c983957d186f6184c37b
+ckaotik <ckaotik@gmail.com>
+2015-09-20 12:31:14 +0200
+
+Tagging as 6.2v1-release
+
+
+--------------------
+
+ckaotik:
+	- Updated to Auctionator-3.2.5

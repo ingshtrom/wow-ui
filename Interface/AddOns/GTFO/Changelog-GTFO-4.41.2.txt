@@ -1,0 +1,170 @@
+------------------------------------------------------------------------
+r280 | zensunim | 2016-10-25 06:51:45 +0000 (Tue, 25 Oct 2016) | 2 lines
+Changed paths:
+   A /tags/4.41.2 (from /trunk:279)
+
+4.41.2
+* Updated for patch 7.1
+------------------------------------------------------------------------
+r279 | zensunim | 2016-10-25 06:51:31 +0000 (Tue, 25 Oct 2016) | 2 lines
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/ReadMe.txt
+
+4.41.2
+* Updated for patch 7.1
+------------------------------------------------------------------------
+r277 | zensunim | 2016-10-23 20:10:10 +0000 (Sun, 23 Oct 2016) | 2 lines
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Spells_LGN.lua
+   M /trunk/ReadMe.txt
+
+* Added Legion spells for The Arcway
+* Added Legion spells for Court of Stars
+------------------------------------------------------------------------
+r276 | zensunim | 2016-10-22 21:10:10 +0000 (Sat, 22 Oct 2016) | 4 lines
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Ignore.lua
+   M /trunk/GTFO_Spells_Generic.lua
+   M /trunk/GTFO_Spells_LGN.lua
+   M /trunk/ReadMe.txt
+
+* Fixed PvP spells for warlocks
+* Added Legion spells for The Broken Isles (world)
+* Added Legion spells for The Arcway
+
+------------------------------------------------------------------------
+r275 | zensunim | 2016-10-19 22:50:59 +0000 (Wed, 19 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Spells_LGN.lua
+
+More open world spells
+------------------------------------------------------------------------
+r273 | zensunim | 2016-10-16 18:43:07 +0000 (Sun, 16 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/ReadMe.txt
+
+4.41 release
+------------------------------------------------------------------------
+r272 | zensunim | 2016-10-16 18:00:15 +0000 (Sun, 16 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/ReadMe.txt
+
+Fixed an issue with Warrior and Death Knight tanks not being properly detected
+------------------------------------------------------------------------
+r271 | zensunim | 2016-10-13 06:31:37 +0000 (Thu, 13 Oct 2016) | 2 lines
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Ignore.lua
+   M /trunk/ReadMe.txt
+
+Added Legion spells for The Emerald Nightmare
+
+------------------------------------------------------------------------
+r269 | zensunim | 2016-10-11 06:02:16 +0000 (Tue, 11 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+
+4.40.3 version check
+------------------------------------------------------------------------
+r268 | zensunim | 2016-10-11 06:01:52 +0000 (Tue, 11 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO_FF_LGN.lua
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Spells_LGN.lua
+   M /trunk/ReadMe.txt
+
+4.40.3
+------------------------------------------------------------------------
+r267 | zensunim | 2016-10-08 14:49:56 +0000 (Sat, 08 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Spells_LGN.lua
+   M /trunk/ReadMe.txt
+
+Fixed Legion spells for Halls of Valor
+------------------------------------------------------------------------
+r265 | zensunim | 2016-10-07 05:54:22 +0000 (Fri, 07 Oct 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Spells_LGN.lua
+
+4.40.2 prep
+------------------------------------------------------------------------
+r264 | zensunim | 2016-09-30 07:12:24 +0000 (Fri, 30 Sep 2016) | 2 lines
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Spells_LGN.lua
+   M /trunk/ReadMe.txt
+
+* Added Legion spells for The Broken Isles (world)
+* Added Legion spells for The Emerald Nightmare
+------------------------------------------------------------------------
+r262 | zensunim | 2016-09-29 15:51:31 +0000 (Thu, 29 Sep 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/ReadMe.txt
+
+4.40.1
+------------------------------------------------------------------------
+r260 | zensunim | 2016-09-29 07:22:22 +0000 (Thu, 29 Sep 2016) | 1 line
+Changed paths:
+   M /trunk/ReadMe.txt
+
+4.40 release
+------------------------------------------------------------------------
+r259 | zensunim | 2016-09-29 07:22:05 +0000 (Thu, 29 Sep 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Spells_LGN.lua
+
+4.40 release
+------------------------------------------------------------------------
+r258 | zensunim | 2016-09-29 07:14:59 +0000 (Thu, 29 Sep 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO_Ignore.lua
+   A /trunk/ReadMe.txt
+
+Moved version log to ReadMe.txt
+------------------------------------------------------------------------
+r257 | zensunim | 2016-09-29 06:51:19 +0000 (Thu, 29 Sep 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Spells_LGN.lua
+
+Added Legion spells for The Emerald Nightmare
+------------------------------------------------------------------------
+r256 | zensunim | 2016-09-26 15:21:11 +0000 (Mon, 26 Sep 2016) | 1 line
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_LGN.lua
+   M /trunk/GTFO_Spells_LGN.lua
+
+Added Legion spells for The Emerald Nightmare, world
+------------------------------------------------------------------------

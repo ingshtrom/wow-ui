@@ -1,0 +1,13 @@
+tag v2
+2604b10788a3f715707d434887cd0381d627aea8
+David Lynch <kemayo@gmail.com>
+2016-10-28 23:22:31 -0500
+
+Tagging v2
+
+
+--------------------
+
+David Lynch:
+	- TOC
+	- Only show today's book (optional)

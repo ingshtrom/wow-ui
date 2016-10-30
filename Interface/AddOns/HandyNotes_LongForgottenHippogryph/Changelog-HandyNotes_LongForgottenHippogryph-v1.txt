@@ -1,0 +1,13 @@
+tag v1
+809eabea97e9f42829f3b598018d4730e5ea6835
+David Lynch <kemayo@gmail.com>
+2016-09-12 17:46:23 -0500
+
+Tagging v1
+
+
+--------------------
+
+David Lynch:
+	- ...I called them Ephemeral Orbs in the TOC, and I don't know why
+	- Initial commit

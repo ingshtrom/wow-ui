@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+r39 | nevcairiel | 2015-09-28 17:51:36 +0000 (Mon, 28 Sep 2015) | 1 line
+Changed paths:
+   A /tags/v1.7.1 Release (from /trunk:38)
+
+Tagging as v1.7.1 Release
+------------------------------------------------------------------------
+r38 | nevcairiel | 2015-09-28 17:50:55 +0000 (Mon, 28 Sep 2015) | 1 line
+Changed paths:
+   M /trunk/HandyNotes_CityGuide.toc
+   M /trunk/addon.lua
+
+Fix debug print
+------------------------------------------------------------------------
+r36 | nevcairiel | 2015-09-28 17:48:35 +0000 (Mon, 28 Sep 2015) | 1 line
+Changed paths:
+   M /trunk/HandyNotes_CityGuide.toc
+   M /trunk/addon.lua
+
+Update to latest HandyNotes version
+------------------------------------------------------------------------

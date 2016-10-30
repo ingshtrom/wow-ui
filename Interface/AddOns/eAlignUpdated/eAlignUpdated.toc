@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: eAlignUpdated
+## Version: 7.1.0
+## Author: Lohkin
+## Notes: A simple alignment grid based on Eurytus' original eAlign
+eAlignUpdated.lua
