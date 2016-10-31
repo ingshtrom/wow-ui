@@ -14,23 +14,23 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
+			["ChatFrame1EditBox"] = {
 			},
 			["ChatFrame3EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
 			},
 		},
 	},
 }
 Prat3HighCPUPerCharDB = {
-	["time"] = 1477828618,
+	["time"] = 1477858698,
 	["scrollback"] = {
 		["ChatFrame1"] = {
 			{
-				"|cff979797[07:46:13]|r|c00000000|r [SERVER] Shutdown in 15:00", -- [1]
+				"|cff979797[07:48:13]|r|c00000000|r [SERVER] Shutdown in 13:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -40,7 +40,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [1]
 			{
-				"|cff979797[07:46:13]|r|c00000000|r [SERVER] Shutdown in 15:00", -- [1]
+				"|cff979797[07:49:12]|r|c00000000|r [SERVER] Shutdown in 12:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -50,7 +50,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [2]
 			{
-				"|cff979797[07:47:12]|r|c00000000|r [SERVER] Shutdown in 14:00", -- [1]
+				"|cff979797[07:49:13]|r|c00000000|r [SERVER] Shutdown in 12:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -60,7 +60,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [3]
 			{
-				"|cff979797[07:47:13]|r|c00000000|r [SERVER] Shutdown in 14:00", -- [1]
+				"|cff979797[07:50:12]|r|c00000000|r [SERVER] Shutdown in 11:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -70,7 +70,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [4]
 			{
-				"|cff979797[07:48:13]|r|c00000000|r [SERVER] Shutdown in 13:00", -- [1]
+				"|cff979797[07:50:13]|r|c00000000|r [SERVER] Shutdown in 11:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -80,7 +80,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [5]
 			{
-				"|cff979797[07:48:13]|r|c00000000|r [SERVER] Shutdown in 13:00", -- [1]
+				"|cff979797[07:51:13]|r|c00000000|r [SERVER] Shutdown in 10:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -90,7 +90,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [6]
 			{
-				"|cff979797[07:49:12]|r|c00000000|r [SERVER] Shutdown in 12:00", -- [1]
+				"|cff979797[07:51:13]|r|c00000000|r [SERVER] Shutdown in 10:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -100,7 +100,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [7]
 			{
-				"|cff979797[07:49:13]|r|c00000000|r [SERVER] Shutdown in 12:00", -- [1]
+				"|cff979797[07:52:12]|r|c00000000|r [SERVER] Shutdown in 9:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -110,7 +110,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [8]
 			{
-				"|cff979797[07:50:12]|r|c00000000|r [SERVER] Shutdown in 11:00", -- [1]
+				"|cff979797[07:52:13]|r|c00000000|r [SERVER] Shutdown in 9:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -120,7 +120,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [9]
 			{
-				"|cff979797[07:50:13]|r|c00000000|r [SERVER] Shutdown in 11:00", -- [1]
+				"|cff979797[07:53:08]|r|c00000000|r Work Order: Felslate completed.", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -130,7 +130,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [10]
 			{
-				"|cff979797[07:51:13]|r|c00000000|r [SERVER] Shutdown in 10:00", -- [1]
+				"|cff979797[07:53:10]|r|c00000000|r Quest accepted: Building an Army", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -140,7 +140,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [11]
 			{
-				"|cff979797[07:51:13]|r|c00000000|r [SERVER] Shutdown in 10:00", -- [1]
+				"|cff979797[07:53:12]|r|c00000000|r [SERVER] Shutdown in 8:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -150,7 +150,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [12]
 			{
-				"|cff979797[07:52:12]|r|c00000000|r [SERVER] Shutdown in 9:00", -- [1]
+				"|cff979797[07:53:13]|r|c00000000|r [SERVER] Shutdown in 8:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -160,7 +160,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [13]
 			{
-				"|cff979797[07:52:13]|r|c00000000|r [SERVER] Shutdown in 9:00", -- [1]
+				"|cff979797[07:53:13]|r|c00000000|r Feed Thalyssra completed.", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -170,7 +170,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [14]
 			{
-				"|cff979797[07:53:08]|r|c00000000|r Work Order: Felslate completed.", -- [1]
+				"|cff979797[07:53:18]|r|c00000000|r Quest accepted: Lady Lunastre", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -180,7 +180,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [15]
 			{
-				"|cff979797[07:53:10]|r|c00000000|r Quest accepted: Building an Army", -- [1]
+				"|cff979797[07:53:47]|r|c00000000|r Dungeon Difficulty set to Normal Scenario.", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -190,7 +190,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [16]
 			{
-				"|cff979797[07:53:12]|r|c00000000|r [SERVER] Shutdown in 8:00", -- [1]
+				"|cff979797[07:53:47]|r|c00000000|r Looting set to Group Loot.", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -200,7 +200,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [17]
 			{
-				"|cff979797[07:53:13]|r|c00000000|r [SERVER] Shutdown in 8:00", -- [1]
+				"|cff979797[07:53:47]|r|c00000000|r Loot threshold set to Uncommon.", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -210,7 +210,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [18]
 			{
-				"|cff979797[07:53:13]|r|c00000000|r Feed Thalyssra completed.", -- [1]
+				"|cff979797[07:54:12]|r|c00000000|r [SERVER] Instance shutdown in 7:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -220,7 +220,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [19]
 			{
-				"|cff979797[07:53:18]|r|c00000000|r Quest accepted: Lady Lunastre", -- [1]
+				"|cff979797[07:54:12]|r|c00000000|r [SERVER] Shutdown in 7:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -230,7 +230,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [20]
 			{
-				"|cff979797[07:53:47]|r|c00000000|r Dungeon Difficulty set to Normal Scenario.", -- [1]
+				"|cff979797[07:55:12]|r|c00000000|r [SERVER] Shutdown in 6:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -240,7 +240,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [21]
 			{
-				"|cff979797[07:53:47]|r|c00000000|r Looting set to Group Loot.", -- [1]
+				"|cff979797[07:55:13]|r|c00000000|r [SERVER] Instance shutdown in 6:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -250,7 +250,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [22]
 			{
-				"|cff979797[07:53:47]|r|c00000000|r Loot threshold set to Uncommon.", -- [1]
+				"|cff979797[07:56:12]|r|c00000000|r [SERVER] Instance shutdown in 5:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -260,7 +260,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [23]
 			{
-				"|cff979797[07:54:12]|r|c00000000|r [SERVER] Instance shutdown in 7:00", -- [1]
+				"|cff979797[07:56:12]|r|c00000000|r [SERVER] Shutdown in 5:00", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -270,7 +270,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [24]
 			{
-				"|cff979797[07:54:12]|r|c00000000|r [SERVER] Shutdown in 7:00", -- [1]
+				"|cff979797[07:56:15]|r|c00000000|r Building an Army completed.", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -280,7 +280,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [25]
 			{
-				"|cff979797[07:55:12]|r|c00000000|r [SERVER] Shutdown in 6:00", -- [1]
+				"|cff979797[07:56:27]|r|c00000000|r [SERVER] Instance shutdown in 4:45", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -290,7 +290,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [26]
 			{
-				"|cff979797[07:55:13]|r|c00000000|r [SERVER] Instance shutdown in 6:00", -- [1]
+				"|cff979797[07:56:27]|r|c00000000|r [SERVER] Shutdown in 4:45", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -300,7 +300,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [27]
 			{
-				"|cff979797[07:56:12]|r|c00000000|r [SERVER] Instance shutdown in 5:00", -- [1]
+				"|cff979797[07:56:42]|r|c00000000|r [SERVER] Instance shutdown in 4:30", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -310,7 +310,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [28]
 			{
-				"|cff979797[07:56:12]|r|c00000000|r [SERVER] Shutdown in 5:00", -- [1]
+				"|cff979797[07:56:42]|r|c00000000|r [SERVER] Shutdown in 4:30", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -320,7 +320,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [29]
 			{
-				"|cff979797[07:56:15]|r|c00000000|r Building an Army completed.", -- [1]
+				"|cff979797[07:56:57]|r|c00000000|r [SERVER] Instance shutdown in 4:15", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -330,7 +330,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [30]
 			{
-				"|cff979797[07:56:27]|r|c00000000|r [SERVER] Instance shutdown in 4:45", -- [1]
+				"|cff979797[07:56:58]|r|c00000000|r [SERVER] Shutdown in 4:15", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -340,7 +340,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [31]
 			{
-				"|cff979797[07:56:27]|r|c00000000|r [SERVER] Shutdown in 4:45", -- [1]
+				"|cff979797[15:52:06]|r|c00000000|r Quest accepted: The Swirling Vial", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -350,37 +350,107 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [32]
 			{
-				"|cff979797[07:56:42]|r|c00000000|r [SERVER] Instance shutdown in 4:30", -- [1]
+				"|cff979797[15:52:29]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - Dalaran]|h", -- [1]
 				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-				1, -- [5]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
 				false, -- [6]
-				1, -- [7]
-				2, -- [8]
+				3, -- [7]
+				4, -- [8]
 			}, -- [33]
 			{
-				"|cff979797[07:56:42]|r|c00000000|r [SERVER] Shutdown in 4:30", -- [1]
+				"|cff979797[15:52:29]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - Dalaran]|h", -- [1]
 				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-				1, -- [5]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
 				false, -- [6]
-				1, -- [7]
-				2, -- [8]
+				6, -- [7]
+				7, -- [8]
 			}, -- [34]
 			{
-				"|cff979797[07:56:57]|r|c00000000|r [SERVER] Instance shutdown in 4:15", -- [1]
+				"|cff979797[15:54:09]|r|c00000000|r |Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:1|h[1. General - Dalaran]|h", -- [1]
 				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-				1, -- [5]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
 				false, -- [6]
-				1, -- [7]
-				2, -- [8]
+				3, -- [7]
+				4, -- [8]
 			}, -- [35]
 			{
-				"|cff979797[07:56:58]|r|c00000000|r [SERVER] Shutdown in 4:15", -- [1]
+				"|cff979797[15:54:09]|r|c00000000|r |Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:2|h[2. Trade - City]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				9, -- [7]
+				10, -- [8]
+			}, -- [36]
+			{
+				"|cff979797[15:54:09]|r|c00000000|r |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:3|h[3. LocalDefense - Dalaran]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+				false, -- [6]
+				6, -- [7]
+				7, -- [8]
+			}, -- [37]
+			{
+				"|cff979797[15:54:15]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - Dalaran]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [38]
+			{
+				"|cff979797[15:54:15]|r|c00000000|r |Hchannel:channel:2|h[2] |h Changed Channel: |Hchannel:2|h[2. Trade - City]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				9, -- [7]
+				10, -- [8]
+			}, -- [39]
+			{
+				"|cff979797[15:54:15]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - Dalaran]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+				false, -- [6]
+				6, -- [7]
+				7, -- [8]
+			}, -- [40]
+			{
+				"|cff979797[15:54:26]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - The Fel Hammer]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [41]
+			{
+				"|cff979797[15:54:26]|r|c00000000|r |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:3|h[3. LocalDefense - Dalaran]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+				false, -- [6]
+				6, -- [7]
+				7, -- [8]
+			}, -- [42]
+			{
+				"|cff979797[15:55:06]|r|c00000000|r Quest accepted: The Swirling Vial", -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
@@ -388,7 +458,77 @@ Prat3HighCPUPerCharDB = {
 				false, -- [6]
 				1, -- [7]
 				2, -- [8]
-			}, -- [36]
+			}, -- [43]
+			{
+				"|cff979797[15:57:23]|r|c00000000|r |cffffffff|Hgarrfollower:666:1:100:700:604:0:0:0:0:0:0:0:0|h[Illidari Adepts]|h|r recruited.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [44]
+			{
+				"|cff979797[16:00:28]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - Dalaran]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [45]
+			{
+				"|cff979797[16:00:28]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - Dalaran]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+				false, -- [6]
+				6, -- [7]
+				7, -- [8]
+			}, -- [46]
+			{
+				"|cff979797[16:17:05]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Gïnsberger:1:CHANNEL:2|h|cffc41e3aGïnsberger|r|h|cffd8d8d8]|r: wts 106  |cffffffff|Hitem:124105::::::::110:250::::::|h[Starlight Rose]|h|r", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [47]
+			{
+				"|cff979797[16:17:35]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Derzhusses-Turalyon:2:CHANNEL:2|h|cff00ff96Derzhusses|r|h|cffd8d8d8]|r: stop trolling", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				4, -- [8]
+			}, -- [48]
+			{
+				"|cff979797[16:17:48]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Mantenga:4:CHANNEL:2|h|cfff48cbaMantenga|r|h|cffd8d8d8]|r: wts 107  |cffffffff|Hitem:124105::::::::110:65::::::|h[Starlight Rose]|h|r", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [49]
+			{
+				"|cff979797[16:18:18]|r|c00000000|r |Hchannel:channel:2|h[2] |h<Away>|cffd8d8d8[|r|Hplayer:Abbes:8:CHANNEL:2|h|cff8787edAbbes|r|h|cffd8d8d8]|r: lol", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				4, -- [8]
+			}, -- [50]
 		},
 	},
 }

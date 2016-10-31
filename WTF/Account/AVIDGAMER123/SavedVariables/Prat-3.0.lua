@@ -10,20 +10,19 @@ Prat3DB = {
 		["Prat_Frames"] = {
 			["profiles"] = {
 				["Default"] = {
-					["minchatwidthdefault"] = 200,
-					["minchatheightdefault"] = 40,
-					["framealpha"] = 0.53,
-					["maxchatheightdefault"] = 1079.99987792969,
-					["rememberframepositions"] = true,
-					["maxchatwidthdefault"] = 1920,
 					["initialized"] = true,
+					["framealpha"] = 0,
+					["maxchatheightdefault"] = 400,
+					["rememberframepositions"] = true,
+					["maxchatwidthdefault"] = 608.000061035156,
+					["minchatwidthdefault"] = 296,
 					["framemetrics"] = {
 						{
 							["point"] = "BOTTOMLEFT",
 							["xOffset"] = 0.00364583432674408,
-							["yOffset"] = 0.0101860676022076,
+							["width"] = 468.000091552734,
 							["height"] = 187.999877929688,
-							["width"] = 342.999938964844,
+							["yOffset"] = 0.0101860066730083,
 						}, -- [1]
 					},
 				},
@@ -34,19 +33,36 @@ Prat3DB = {
 		["Prat_Editbox"] = {
 			["profiles"] = {
 				["Default"] = {
-					["edgeSize"] = 10,
-					["editW"] = 342.999816894531,
+					["edgeSize"] = 1,
+					["editW"] = 342.999755859375,
 					["attach"] = "TOP",
-					["editX"] = 808.000305175781,
+					["border"] = "Grid2 Flat",
+					["editX"] = 784.000366210938,
+					["backgroundColor"] = {
+						["a"] = 0.600000023841858,
+					},
 					["font"] = "Friz Quadrata TT",
-					["editY"] = 129.000640869141,
-					["background"] = "Solid",
-					["inset"] = 1,
+					["tileSize"] = 12,
+					["borderColor"] = {
+						["r"] = 0.788235294117647,
+						["g"] = 0.788235294117647,
+						["b"] = 0.788235294117647,
+					},
+					["editY"] = 140.000579833984,
 					["colorByChannel"] = false,
+					["inset"] = 1,
+					["background"] = "Solid",
 				},
 			},
 		},
 		["Prat_Fading"] = {
+			["profiles"] = {
+				["Default"] = {
+					["textfade"] = {
+						["ChatFrame1"] = false,
+					},
+				},
+			},
 		},
 		["Prat_Font"] = {
 			["profiles"] = {
@@ -63,11 +79,14 @@ Prat3DB = {
 				},
 			},
 		},
-		["Prat_Bubbles"] = {
+		["Prat_ChatTabs"] = {
 			["profiles"] = {
 				["Default"] = {
-					["on"] = false,
-					["transparent"] = true,
+					["displaymode"] = {
+						["ChatFrame2"] = true,
+						["ChatFrame1"] = true,
+					},
+					["on"] = true,
 				},
 			},
 		},
@@ -85,11 +104,9 @@ Prat3DB = {
 		},
 		["Prat_Sounds"] = {
 		},
-		["Prat_Timestamps"] = {
+		["Prat_ChatLog"] = {
 		},
 		["Prat_ChannelSticky"] = {
-		},
-		["Prat_PopupMessage"] = {
 		},
 		["Prat_History"] = {
 			["profiles"] = {
@@ -100,9 +117,11 @@ Prat3DB = {
 				},
 			},
 		},
+		["Prat_PopupMessage"] = {
+		},
 		["Prat_CopyChat"] = {
 		},
-		["Prat_ChatLog"] = {
+		["Prat_Timestamps"] = {
 		},
 		["Prat_Search"] = {
 		},
@@ -117,14 +136,11 @@ Prat3DB = {
 		},
 		["Prat_ServerNames"] = {
 		},
-		["Prat_ChatTabs"] = {
+		["Prat_Bubbles"] = {
 			["profiles"] = {
 				["Default"] = {
-					["displaymode"] = {
-						["ChatFrame2"] = true,
-						["ChatFrame1"] = true,
-					},
-					["on"] = true,
+					["on"] = false,
+					["transparent"] = true,
 				},
 			},
 		},
@@ -135,7 +151,7 @@ Prat3DB = {
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["ChatLog"] = 1,
+				["Alias"] = 1,
 				["ChatTabs"] = 3,
 				["Bubbles"] = 1,
 				["AltNames"] = 1,
@@ -144,7 +160,7 @@ Prat3DB = {
 				["KeyBindings"] = 1,
 				["PopupMessage"] = 1,
 				["OriginalButtons"] = 1,
-				["Alias"] = 1,
+				["ChatLog"] = 1,
 			},
 		},
 	},

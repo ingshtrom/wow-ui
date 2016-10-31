@@ -17,7 +17,7 @@ BigWigs_Nightmare: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 BigWigs_Nighthold: enabled
-eAlignUpdated: enabled
+eAlignUpdated: disabled
 Grid: disabled
 LittleWigs: enabled
 Masque_Demigod Round: enabled
@@ -31,12 +31,12 @@ ShadowedUF_Options: enabled
 ShadowedUF_SmoothBars: enabled
 ShadowedUnitFrames: enabled
 Skada: enabled
-TipTac: enabled
-TipTacItemRef: enabled
-TipTacOptions: enabled
-TipTacTalents: enabled
+TipTac: disabled
+TipTacItemRef: disabled
+TipTacOptions: disabled
+TipTacTalents: disabled
 BigWigs_TrialOfValor: enabled
-Chatter: disabled
+Chatter: enabled
 Dominos: disabled
 Dominos_ActionSets: disabled
 Dominos_Cast: disabled
@@ -50,8 +50,8 @@ Raven_Options: enabled
 SharedMedia: enabled
 SharedMedia-Blizzard: enabled
 StopResetingMyCameraPlease: disabled
-Prat-3.0_Libraries: enabled
-Prat-3.0: enabled
+Prat-3.0_Libraries: disabled
+Prat-3.0: disabled
 HandyNotes_DraenorTreasures: disabled
 HandyNotes_CityGuide: disabled
 HandyNotes_LegionRaresTreasures: disabled
@@ -113,3 +113,6 @@ CanIMogIt: enabled
 FreebTipSpec: disabled
 FreebTipiLvl: disabled
 FreebTip: disabled
+NomiCakes: disabled
+PhanxChat: disabled
+Kui_Nameplates_Elite: disabled

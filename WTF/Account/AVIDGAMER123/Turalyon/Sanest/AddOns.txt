@@ -1,4 +1,4 @@
-eAlignUpdated: enabled
+eAlignUpdated: disabled
 NiceDamage: disabled
 ShadowedUnitFrames: enabled
 ShadowedUF_SmoothBars: enabled
@@ -29,10 +29,10 @@ MasterPlanA: disabled
 MoveAnything: enabled
 SexyMap: disabled
 Skada: enabled
-TipTac: enabled
-TipTacItemRef: enabled
-TipTacOptions: enabled
-TipTacTalents: enabled
+TipTac: disabled
+TipTacItemRef: disabled
+TipTacOptions: disabled
+TipTacTalents: disabled
 WeakAuras: enabled
 WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
@@ -40,7 +40,7 @@ WeakAurasTemplates: enabled
 BigWigs_BrokenIsles: enabled
 LittleWigs: enabled
 BigWigs_TrialOfValor: enabled
-Chatter: disabled
+Chatter: enabled
 Dominos: disabled
 Dominos_ActionSets: disabled
 Dominos_Cast: disabled
@@ -54,8 +54,8 @@ Raven_Options: enabled
 SharedMedia: enabled
 SharedMedia-Blizzard: enabled
 StopResetingMyCameraPlease: disabled
-Prat-3.0_Libraries: enabled
-Prat-3.0: enabled
+Prat-3.0_Libraries: disabled
+Prat-3.0: disabled
 HandyNotes_DraenorTreasures: disabled
 HandyNotes_CityGuide: disabled
 HandyNotes_LegionRaresTreasures: disabled
@@ -119,3 +119,6 @@ CanIMogIt: enabled
 FreebTipSpec: disabled
 FreebTipiLvl: disabled
 FreebTip: disabled
+NomiCakes: disabled
+PhanxChat: disabled
+Kui_Nameplates_Elite: disabled

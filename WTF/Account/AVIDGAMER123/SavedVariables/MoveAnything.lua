@@ -11,11 +11,11 @@ MADB = {
 			["frames"] = {
 				["TargetFrame"] = {
 					["orgPos"] = {
-						"TOPLEFT", -- [1]
+						"BOTTOMRIGHT", -- [1]
 						"UIParent", -- [2]
-						"TOPLEFT", -- [3]
-						250.000015258789, -- [4]
-						-4, -- [5]
+						"BOTTOMRIGHT", -- [3]
+						-255.000015258789, -- [4]
+						85, -- [5]
 					},
 					["name"] = "TargetFrame",
 					["disableLayerArtwork"] = false,

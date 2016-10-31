@@ -335,18 +335,17 @@ Bartender4DB = {
 				["Ingshtrom - Turalyon"] = {
 					["actionbars"] = {
 						{
+							["flyoutDirection"] = "DOWN",
 							["fadeoutdelay"] = 0,
-							["fadeoutalpha"] = 0.15,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -0.899999278783817,
-								["growVertical"] = "UP",
+								["y"] = 242.425003612414,
 								["point"] = "BOTTOM",
-								["scale"] = 0.899999976158142,
-								["x"] = -228.149918679399,
+								["scale"] = 0.800000011920929,
+								["x"] = -180.800061631204,
 							},
-							["hidehotkey"] = true,
-							["padding"] = 6,
+							["fadeoutalpha"] = 0.15,
+							["padding"] = 1,
 							["visibility"] = {
 								["combat"] = false,
 								["always"] = false,
@@ -375,15 +374,15 @@ Bartender4DB = {
 							["fadeoutdelay"] = 0,
 							["enabled"] = false,
 							["buttons"] = 10,
+							["fadeoutalpha"] = 0.15,
 							["version"] = 3,
-							["hidehotkey"] = true,
 							["position"] = {
 								["y"] = 105.279892230566,
 								["x"] = -190.349892214937,
 								["point"] = "BOTTOM",
 								["scale"] = 0.899999976158142,
 							},
-							["fadeoutalpha"] = 0.15,
+							["hidehotkey"] = true,
 							["padding"] = 6,
 							["visibility"] = {
 								["custom"] = false,
@@ -452,12 +451,12 @@ Bartender4DB = {
 						{
 							["version"] = 3,
 							["position"] = {
-								["y"] = 77.5946070142691,
-								["x"] = -228.149918679399,
-								["point"] = "BOTTOM",
-								["scale"] = 0.899999976158142,
+								["y"] = -265.512776671541,
+								["x"] = -180.800061631204,
+								["point"] = "CENTER",
+								["scale"] = 0.800000011920929,
 							},
-							["padding"] = 6,
+							["padding"] = 1,
 						}, -- [6]
 						{
 							["version"] = 3,
@@ -488,12 +487,12 @@ Bartender4DB = {
 							["buttons"] = 10,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 113.521443983675,
-								["x"] = -190.349892214937,
+								["y"] = 33.2000096499921,
+								["x"] = 296.252655438373,
 								["point"] = "BOTTOM",
-								["scale"] = 0.899999976158142,
+								["scale"] = 0.800000011920929,
 							},
-							["padding"] = 6,
+							["padding"] = 1,
 						}, -- [10]
 					},
 				},
@@ -611,8 +610,8 @@ Bartender4DB = {
 				},
 				["Ingshtrom - Turalyon"] = {
 					["position"] = {
-						["y"] = 235.37939453125,
-						["x"] = -31.4999389648438,
+						["y"] = 140.682662963867,
+						["x"] = 410.032592773438,
 						["point"] = "BOTTOM",
 					},
 					["version"] = 3,
@@ -732,11 +731,12 @@ Bartender4DB = {
 				["Ingshtrom - Turalyon"] = {
 					["enabled"] = true,
 					["position"] = {
-						["y"] = 3.99993896484375,
+						["y"] = 4.0001220703125,
 						["x"] = -519,
 						["point"] = "TOP",
 					},
 					["version"] = 3,
+					["clickthrough"] = true,
 				},
 			},
 		},
@@ -789,7 +789,6 @@ Bartender4DB = {
 					},
 				},
 				["Ingshtrom - Turalyon"] = {
-					["enabled"] = true,
 					["artLayout"] = "ONEBAR",
 					["position"] = {
 						["y"] = 43.1999988555908,
@@ -1043,8 +1042,8 @@ Bartender4DB = {
 				["Ingshtrom - Turalyon"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 141.983827799318,
-						["x"] = -123.599889880417,
+						["y"] = 58.8000191867354,
+						["x"] = 323.852362880891,
 						["point"] = "BOTTOM",
 						["scale"] = 0.800000011920929,
 					},
